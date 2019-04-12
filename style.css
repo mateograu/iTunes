@@ -1,0 +1,45 @@
+img {
+    position: relative;
+    top: 5px;
+}
+
+body {
+    text-align: center;
+    margin-top: 10px;
+    background-color: #15a7cc;
+}
+
+button {
+    position: relative;
+    top: 15px;
+    bottom: 10px;
+    border: #15a7cc;
+    border: thick;
+}
+
+#main {
+    position: relative;
+    margin-top: 10px;
+}
+
+table {
+    position: relative;
+    margin-top: 10px;
+    color: midnightblue;
+    width: 100%;
+}
+
+.w3-comfort{
+    font-family: "American Typewriter";
+    color: midnightblue;
+}
+
+#container{
+    position: relative;
+    top: 30px;
+}
+
+.audio{
+    position: relative;
+    top: 25px;
+}

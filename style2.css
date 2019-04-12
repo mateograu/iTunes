@@ -1,0 +1,13 @@
+#container{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+    line-height: 150%;
+    font-family: "American Typewriter" ;
+}
+
+body{
+    background-color: #15a7cc;
+}
